@@ -12,7 +12,7 @@ Me chamo Laryssa Silva e tenho 18 anos. Explorando o mundo do Java e compartilho
 
 ## 📊 GitHub Status:
 ![Laryssa GitHub stats](https://github-readme-stats.vercel.app/api?username=llary-y&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=llary-y&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=llary-y&theme=tokyonight)
 
 
 
