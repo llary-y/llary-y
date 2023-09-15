@@ -3,7 +3,7 @@ Me chamo Laryssa Silva e tenho 18 anos. Explorando o mundo do Java e compartilho
 
 ## 💻 Tecnologia que uso no meu dia
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ## 🌐 Sociais
