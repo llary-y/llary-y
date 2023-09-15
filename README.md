@@ -1,5 +1,5 @@
 # 👋🏼 Hi there
-Me chamo Laryssa Silva e tenho 18 anos. Explorando o mundo do Java e compartilho aqui projetos que criei durante meu curso ou iniciativas pessoais.
+Me chamo Laryssa Silva e tenho 18 anos. Explorando o mundo do Java, compartilho aqui projetos que criei durante meu curso ou iniciativas pessoais.
 
 ## 💻 Tecnologias que uso no meu dia
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
